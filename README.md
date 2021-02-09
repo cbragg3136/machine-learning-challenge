@@ -16,5 +16,7 @@ To help process this data, you will create and compare 2 or more machine learnin
 * Tune and compare at least two different classifiers.
 
 ### Report Findings
+
 Logistic Regression (model1): best_score_ of 86.59%
+
 Support Vector Classifier (model2): best_score_ of 86.8%
